@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Olá, eu sou o Gaba</h1>
 
-<!--
-**gaba23/gaba23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Opa, meu nome é Gabriel Alves, mas normalmente me chamam de gaba ou gabinha.</h2>
+<h2>Hi, my name is Gabriel Alves, but actually my friends call me gaba or gabinha.</h2>
 
-Here are some ideas to get you started:
+<h2>Moro em Recife/PE e tenho 20.1 anos</h2>
+<h2>Living in Recife/PE, 21 years old.</h2>
+.
+<h2>Cursando Sistemas de Informação na UFPE<h2>
+<h2>College of Information Systems in UFPE</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Atualmente programo nas linguagens Python e Javascript.</h2>
+<h2>Currently programming in Python and Javascript languages.</h2>
+
+<h2>EN/PT-BR</h2>
