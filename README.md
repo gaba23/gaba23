@@ -1,5 +1,11 @@
 <h1>Olá, eu sou o Gaba</h1>
 
+<div>
+  <a href ="https://github.com/gaba23">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaba23&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true">
+</div>
+
 <h3>✦ Opa, meu nome é Gabriel Alves, mas normalmente me chamam de gaba ou gabinha.</h2>
 <h3>✦ Hi, my name is Gabriel Alves, but actually my friends call me gaba or gabinha.</h2>
 </br>
