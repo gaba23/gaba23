@@ -3,7 +3,7 @@
 <div>
   <a href ="https://github.com/gaba23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaba23&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false">
 </div>
 
 <h3>✦ Opa, meu nome é Gabriel Alves, mas normalmente me chamam de gaba ou gabinha.</h2>
