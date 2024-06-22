@@ -12,7 +12,7 @@
 <h3>✦ Moro em Recife/PE e tenho 22 anos</h2>
 <h3>✦ Living in Recife/PE, 22 years old.</h2>
 </br>
-<h3>✦ Cursando Sistemas de Informação na UFPE, concluindo o 4º período.</h2>
+  <h3>✦ Cursando Sistemas de Informação na UFPE, atualmente no 5º período.</h2>
 <h3>✦ College of Information Systems in UFPE</h2>
 </br>
 <h3>✦ Atualmente programo nas linguagens Python e Javascript.</h2>
